@@ -8,7 +8,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.snowball import SnowballStemmer
 import re
 import pandas as pd
-
+#adicionando linha
 
 # In[22]:
 
